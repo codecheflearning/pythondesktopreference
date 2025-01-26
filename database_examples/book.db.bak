@@ -1,0 +1,5 @@
+'name', (0, 16)
+'publisher', (512, 6)
+'publish_date', (1024, 10)
+'type', (1536, 5)
+'subject', (2048, 16)
